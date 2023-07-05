@@ -1,0 +1,28 @@
+**__Vault Leader Board__**
+
+
+**__Vault Level__**
+```
+Rank 1: ****** --> vaultLevel: 41
+Rank 2: ********** --> vaultLevel: 35
+Rank 3: ********* --> vaultLevel: 33
+```
+
+**__Vaults Completed__**
+```
+Rank 1: *********** --> Completed: 65
+Rank 2: ****** --> Completed: 41
+Rank 3: ********* --> Completed: 34
+```
+
+**__Total Vaults Ran__**
+```
+Rank 1: *********** --> Total Vaults: 199
+Rank 2: ********* --> Total Vaults: 197
+Rank 3: ****** --> Total Vaults: 141
+```
+
+=========== **__Level 100 club__** ===========
+```
+********
+```
