@@ -29,7 +29,7 @@ Special thank you to joshglen for the help with debugging and deployment of the 
 18.	Use the command `!update` to trigger the update. If the command doesn't work, ensure that the bot and the script are in the same location, not inside a folder.
 
 # Notes
-- The player snapshots (the thing the scripts get there data from) will only update after a vault and will not update with burger levels. So if you burger a level and it isn't showing run a vault then the new level will show.
+- The player snapshots (the thing the scripts get there data from) will only update after a vault and will not update until you have run a vault (failed, completed or survived) with the new level.
 
 ## Disclaimer
 
